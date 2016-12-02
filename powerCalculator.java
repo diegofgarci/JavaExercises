@@ -9,10 +9,7 @@
  * @author DFG
  */
 public class calcularPotencia {
-
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         int base=0;
         int exponente=0;
@@ -27,7 +24,7 @@ public class calcularPotencia {
         }
         else if (base>1 && exponente>0){
             resultado=base;
-            for (int i=0; i<=exponente; i++){
+            for (int i=1; i<exponente; i++){
                 resultado=resultado*base;     
         }
         }        
