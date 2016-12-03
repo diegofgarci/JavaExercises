@@ -1,5 +1,4 @@
-public class practica {
-    
+public class practica {    
     public static void main(String[] args) {
        int number=0;
        while(number<=100){
@@ -7,8 +6,6 @@ public class practica {
                System.out.print(number+", ");
            }
            number++;
-       }
-       
-      
+       }             
     }    
 }
