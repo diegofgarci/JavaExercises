@@ -1,4 +1,4 @@
-public class practica {
+public class evenNumber {
     
     public static void main(String[] args) {
        int number=0;
