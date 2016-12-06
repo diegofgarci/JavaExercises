@@ -1,4 +1,4 @@
-public class practica {
+tpublic class perfectNumber {
     
     public static void main(String[] args) {
         int number=0;
