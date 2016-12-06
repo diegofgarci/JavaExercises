@@ -1,5 +1,5 @@
 /**dfg. This program show the n element of fibonacci sucession.*/
-public class practica {
+public class fibonacci {
   public static void main(String[] args) {
     int position=9;
     int elementA=0;
