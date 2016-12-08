@@ -3,8 +3,8 @@
 public class changeDevolution {
   public static void main (String[] args){
 
-    int precio=96;
-    int dinero=200;
+    int precio=0;
+    int dinero=0;
     int vuelta=0;
     int cambio5=0;
     int cambio2=0;
