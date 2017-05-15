@@ -12,7 +12,6 @@ public class EjercicioMatriz {
             for (int j = 0; j < m[0].length; j++) {
                 System.out.println(m[i][j] + "\n");
             }
-
         }
 
         //Contar el número de elementos pares e impares que forma la matriz
@@ -38,7 +37,6 @@ public class EjercicioMatriz {
                 sumatorio = sumatorio + m[i][j];
             }
             System.out.println("El sumatorio de la fila " + (i + 1) + " es: " + sumatorio);
-
         }
 
         //Determinar el sumatorio de la diagonal principal 
@@ -52,6 +50,5 @@ public class EjercicioMatriz {
             }
         }
         System.out.println("El sumatorio de la diagonal principal es: " + sumatorio);
-
     }
 }
